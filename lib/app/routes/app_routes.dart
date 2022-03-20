@@ -14,6 +14,9 @@ abstract class Routes {
   static const SUCCESSFULL_SCREEN = _Paths.SUCCESSFULL_SCREEN;
   static const PROFILE_SCREEN = _Paths.PROFILE_SCREEN;
   static const LOAN_HISTORY_SCREEN = _Paths.LOAN_HISTORY_SCREEN;
+  static const PERSONAL_INFO = _Paths.PERSONAL_INFO;
+  static const PERSONA_INFO_2 = _Paths.PERSONA_INFO_2;
+  static const CONTACT_INFO = _Paths.CONTACT_INFO;
 }
 
 abstract class _Paths {
@@ -27,4 +30,7 @@ abstract class _Paths {
   static const SUCCESSFULL_SCREEN = '/successfull-screen';
   static const PROFILE_SCREEN = '/profile-screen';
   static const LOAN_HISTORY_SCREEN = '/loan-history-screen';
+  static const PERSONAL_INFO = '/personal-info';
+  static const PERSONA_INFO_2 = '/persona-info-2';
+  static const CONTACT_INFO = '/contact-info';
 }
